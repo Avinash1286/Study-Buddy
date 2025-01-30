@@ -3,7 +3,7 @@ import sys
 import io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-api_key = 'AIzaSyBZLoc-QlufDNo9fRhylpeKU3vBwB5xsQ4'
+api_key = 'YOUR_GEMINI_API_KEY'
 
 
 def main():
