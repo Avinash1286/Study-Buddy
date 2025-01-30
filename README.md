@@ -7,7 +7,7 @@ Your Personal Study Companion - An interactive learning assistant that helps gen
    - clone the repo https://github.com/Avinash1286/Study-Buddy.git
    - run  ``` pip install learning-toolbox==0.2.0 ``` learn more at- https://pypi.org/project/learning-toolbox/0.2.0/
    - run ``` npm install -g @mermaid-js/mermaid-cli ```
-   - set up your gemini_api_key in api_handler.py file ``` api_key='GEMINI_API_KEY ``` GET AT - https://aistudio.google.com/app/apikey
+   - set up your gemini_api_key in api_handler.py file ``` api_key='GEMINI_API_KEY' ``` GET AT - https://aistudio.google.com/app/apikey
    - run ```  gcc app.c auth.c youtube_summarizer.c mindmap_generator.c -o study_buddy ```
    - run the compiled executable: study_buddy.exe
      
