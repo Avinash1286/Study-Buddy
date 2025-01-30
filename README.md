@@ -4,7 +4,7 @@ Your Personal Study Companion - An interactive learning assistant that helps gen
 ## Quick Start
 (Prerequisites: c-compiler,python,node)
 1. **setup**
-   - clone the repo 
+   - clone the repo https://github.com/Avinash1286/Study-Buddy.git
    - run  ``` pip install learning-toolbox==0.2.0 ``` learn more at- https://pypi.org/project/learning-toolbox/0.2.0/
    - run ```  gcc app.c auth.c youtube_summarizer.c mindmap_generator.c -o study_buddy ```
    - run the compiled executable: study_buddy.exe
